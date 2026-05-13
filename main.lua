@@ -1,7 +1,7 @@
 --[[
   @name: Google Gemini text to audio generator
   @author: Abdul Rauf Amir
-  @version: 2.0
+  @version: 2.1
   @description: Final Advanced TTS with Auto-Close & Crash Fix
 ]]
 
